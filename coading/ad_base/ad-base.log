@@ -1,0 +1,779 @@
+2020-03-20 17:59:58,851 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 17:59:58,857 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 17:59:58,859 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:04:23,559 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:04:23,561 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:04:23,563 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:05:15,127 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:05:15,133 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:05:15,135 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:07:22,488 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:07:22,494 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:07:22,496 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:07:57,241 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:07:57,246 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:07:57,247 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:09:09,727 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:09:09,730 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:09:09,732 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:10:05,413 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:10:05,418 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:10:05,419 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:12:02,599 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:12:02,606 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:12:02,608 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:14:06,102 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:14:06,110 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:14:06,111 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:15:33,851 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:15:33,858 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:15:33,860 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:18:40,464 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:18:40,470 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:18:40,471 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:20:50,076 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:20:50,082 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:20:50,087 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:24:10,220 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:24:10,227 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:24:10,232 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:24:35,985 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:24:35,989 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:24:35,991 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:24:52,680 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:24:52,686 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:24:52,688 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:26:41,197 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:26:41,201 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:26:41,204 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:27:29,776 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:27:29,781 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:27:29,783 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:40:13,692 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:40:13,698 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:40:13,700 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:40:19,527 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:40:19,534 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:40:19,535 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:40:39,294 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:40:39,296 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:40:39,297 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:41:01,985 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:41:01,990 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:41:01,994 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:41:19,072 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:41:19,078 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:41:19,082 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:41:56,565 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:41:56,575 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:41:56,586 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:44:30,670 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:44:30,677 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:44:30,678 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:44:48,302 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:44:48,307 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:44:48,311 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:50:17,423 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:50:17,430 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:50:17,431 - DEBUG - _on_open_ok - Channel open
+2020-03-20 18:51:15,950 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 18:51:15,958 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 18:51:15,960 - DEBUG - _on_open_ok - Channel open
+2020-03-20 19:08:55,273 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 19:08:55,278 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 19:08:55,280 - DEBUG - _on_open_ok - Channel open
+2020-03-20 19:09:38,239 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 19:09:38,246 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 19:09:38,247 - DEBUG - _on_open_ok - Channel open
+2020-03-20 19:10:57,588 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 19:10:57,594 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 19:10:57,596 - DEBUG - _on_open_ok - Channel open
+2020-03-20 19:11:24,170 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 19:11:24,178 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 19:11:24,180 - DEBUG - _on_open_ok - Channel open
+2020-03-20 19:12:21,438 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 19:12:21,442 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 19:12:21,446 - DEBUG - _on_open_ok - Channel open
+2020-03-20 19:25:15,654 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 19:25:15,658 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 19:25:15,662 - DEBUG - _on_open_ok - Channel open
+2020-03-20 21:53:20,464 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 21:53:20,470 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 21:53:20,472 - DEBUG - _on_open_ok - Channel open
+2020-03-20 21:55:48,733 - DEBUG - _on_start - Start from server, version: 0.9, properties: {'capabilities': {'publisher_confirms': True, 'exchange_exchange_bindings': True, 'basic.nack': True, 'consumer_cancel_notify': True, 'connection.blocked': True, 'consumer_priorities': True, 'authentication_failure_close': True, 'per_consumer_qos': True, 'direct_reply_to': True}, 'cluster_name': 'rabbit@sachin-VirtualBox', 'copyright': 'Copyright (C) 2007-2017 Pivotal Software, Inc.', 'information': 'Licensed under the MPL.  See http://www.rabbitmq.com/', 'platform': 'Erlang/OTP', 'product': 'RabbitMQ', 'version': '3.6.10'}, mechanisms: [b'PLAIN', b'AMQPLAIN'], locales: ['en_US']
+2020-03-20 21:55:48,741 - DEBUG - __init__ - using channel_id: 1
+2020-03-20 21:55:48,743 - DEBUG - _on_open_ok - Channel open
+2020-03-21 16:05:41,700 - ERROR - send - Signal handler <function setup_periodic_tasks at 0x7f70e962ba60> raised: AttributeError("'Celery' object has no attribute 'add_periodic_tasks'",)
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/kombu/utils/objects.py", line 42, in __get__
+    return obj.__dict__[self.__name__]
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/celery/utils/dispatch/signal.py", line 288, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/sachin/react/coading/ad_base/fcelery.py", line 56, in setup_periodic_tasks
+    sender.add_periodic_tasks(
+AttributeError: 'Celery' object has no attribute 'add_periodic_tasks'
+2020-03-21 16:06:10,043 - ERROR - send - Signal handler <function setup_periodic_tasks at 0x7fd886281a60> raised: AttributeError("'Celery' object has no attribute 'add_periodic_tasks'",)
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/kombu/utils/objects.py", line 42, in __get__
+    return obj.__dict__[self.__name__]
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/celery/utils/dispatch/signal.py", line 288, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/sachin/react/coading/ad_base/fcelery.py", line 56, in setup_periodic_tasks
+    sender.add_periodic_tasks(
+AttributeError: 'Celery' object has no attribute 'add_periodic_tasks'
+2020-03-21 16:08:36,404 - ERROR - send - Signal handler <function setup_periodic_tasks at 0x7f53a9642a60> raised: AttributeError("'Celery' object has no attribute 'add_periodic_tasks'",)
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/kombu/utils/objects.py", line 42, in __get__
+    return obj.__dict__[self.__name__]
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/celery/utils/dispatch/signal.py", line 288, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/sachin/react/coading/ad_base/fcelery.py", line 56, in setup_periodic_tasks
+    sender.add_periodic_tasks(
+AttributeError: 'Celery' object has no attribute 'add_periodic_tasks'
+2020-03-21 16:25:18,904 - ERROR - send - Signal handler <function setup_periodic_tasks at 0x7fe691140a60> raised: AttributeError("'Celery' object has no attribute 'add_periodic_tasks'",)
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/kombu/utils/objects.py", line 42, in __get__
+    return obj.__dict__[self.__name__]
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/celery/utils/dispatch/signal.py", line 288, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/sachin/react/coading/ad_base/fcelery.py", line 56, in setup_periodic_tasks
+    sender.add_periodic_tasks(
+AttributeError: 'Celery' object has no attribute 'add_periodic_tasks'
+2020-03-21 16:30:26,618 - ERROR - send - Signal handler <function setup_periodic_tasks at 0x7fec19a08a60> raised: AttributeError("'Celery' object has no attribute 'add_periodic_tasks'",)
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/kombu/utils/objects.py", line 42, in __get__
+    return obj.__dict__[self.__name__]
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/celery/utils/dispatch/signal.py", line 288, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/sachin/react/coading/ad_base/fcelery.py", line 56, in setup_periodic_tasks
+    sender.add_periodic_tasks(
+AttributeError: 'Celery' object has no attribute 'add_periodic_tasks'
+2020-03-21 16:31:00,747 - ERROR - send - Signal handler <function setup_periodic_tasks at 0x7f5644e13a60> raised: AttributeError("'Celery' object has no attribute 'add_periodic_tasks'",)
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/kombu/utils/objects.py", line 42, in __get__
+    return obj.__dict__[self.__name__]
+KeyError: 'data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sachin/react/lib/python3.6/site-packages/celery/utils/dispatch/signal.py", line 288, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "/home/sachin/react/coading/ad_base/fcelery.py", line 56, in setup_periodic_tasks
+    sender.add_periodic_tasks(
+AttributeError: 'Celery' object has no attribute 'add_periodic_tasks'
+2020-03-21 17:10:15,590 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-21 17:10:15,596 - INFO - _log -  * Restarting with stat
+2020-03-21 17:10:16,487 - WARNING - _log -  * Debugger is active!
+2020-03-21 17:10:16,493 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 08:21:28,389 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 08:21:28] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-22 08:21:37,693 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 08:21:37] "[37mGET /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 09:26:31,556 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 09:26:31,557 - INFO - _log -  * Restarting with stat
+2020-03-22 09:26:32,897 - WARNING - _log -  * Debugger is active!
+2020-03-22 09:26:32,897 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 09:26:39,087 - ERROR - error_router - None
+2020-03-22 09:26:39,087 - ERROR - error_router - None
+2020-03-22 09:26:39,089 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 09:26:39] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-03-22 09:27:04,727 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/views/Home.py', reloading
+2020-03-22 09:27:04,920 - INFO - _log -  * Restarting with stat
+2020-03-22 09:27:06,204 - WARNING - _log -  * Debugger is active!
+2020-03-22 09:27:06,207 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 09:27:07,838 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 09:27:07] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-22 09:28:55,798 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/__init__.py', reloading
+2020-03-22 09:28:56,163 - INFO - _log -  * Restarting with stat
+2020-03-22 09:28:57,171 - WARNING - _log -  * Debugger is active!
+2020-03-22 09:28:57,171 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 09:29:00,467 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 09:29:00] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-22 09:29:02,823 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 09:29:02] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-22 09:32:21,803 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/__init__.py', reloading
+2020-03-22 09:32:21,938 - INFO - _log -  * Restarting with stat
+2020-03-22 09:32:22,867 - WARNING - _log -  * Debugger is active!
+2020-03-22 09:32:22,869 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 09:33:49,808 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/models/mixin.py', reloading
+2020-03-22 09:33:49,962 - INFO - _log -  * Restarting with stat
+2020-03-22 09:33:51,094 - WARNING - _log -  * Debugger is active!
+2020-03-22 09:33:51,094 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 11:55:51,208 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 11:55:51,213 - INFO - _log -  * Restarting with stat
+2020-03-22 11:55:52,051 - WARNING - _log -  * Debugger is active!
+2020-03-22 11:55:52,065 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 11:55:56,005 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 11:55:56] "[37mGET /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 11:56:08,127 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 11:56:08] "[37mGET /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 12:06:48,600 - ERROR - error_router - None
+2020-03-22 12:06:48,600 - ERROR - error_router - None
+2020-03-22 12:06:48,602 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:06:48] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:07:04,070 - ERROR - error_router - None
+2020-03-22 12:07:04,070 - ERROR - error_router - None
+2020-03-22 12:07:04,071 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:07:04] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:07:05,094 - ERROR - error_router - None
+2020-03-22 12:07:05,094 - ERROR - error_router - None
+2020-03-22 12:07:05,096 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:07:05] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:08:32,538 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 12:08:32,712 - INFO - _log -  * Restarting with stat
+2020-03-22 12:08:33,711 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:08:33,712 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:09:01,179 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 12:09:01,301 - INFO - _log -  * Restarting with stat
+2020-03-22 12:09:02,281 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:09:02,283 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:15:34,258 - ERROR - error_router - None
+2020-03-22 12:15:34,258 - ERROR - error_router - None
+2020-03-22 12:15:34,259 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:15:34] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:16:04,067 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 12:16:04,069 - INFO - _log -  * Restarting with stat
+2020-03-22 12:16:04,930 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:16:04,931 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:16:22,158 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 12:16:22,249 - INFO - _log -  * Restarting with stat
+2020-03-22 12:16:23,124 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:16:23,126 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:16:33,443 - ERROR - error_router - None
+2020-03-22 12:16:33,443 - ERROR - error_router - None
+2020-03-22 12:16:33,444 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:16:33] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:17:04,834 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 12:17:05,083 - INFO - _log -  * Restarting with stat
+2020-03-22 12:17:05,911 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:17:05,912 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:17:09,276 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:17:09] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 12:18:02,860 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 12:18:02,955 - INFO - _log -  * Restarting with stat
+2020-03-22 12:18:23,240 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 12:18:23,241 - INFO - _log -  * Restarting with stat
+2020-03-22 12:18:24,058 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:18:24,061 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:18:29,650 - ERROR - error_router - None
+2020-03-22 12:18:29,650 - ERROR - error_router - None
+2020-03-22 12:18:29,651 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:18:29] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:31:49,468 - ERROR - error_router - None
+2020-03-22 12:31:49,468 - ERROR - error_router - None
+2020-03-22 12:31:49,470 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:31:49] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:32:26,333 - ERROR - error_router - None
+2020-03-22 12:32:26,333 - ERROR - error_router - None
+2020-03-22 12:32:26,334 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:32:26] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:32:36,167 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 12:32:36,168 - INFO - _log -  * Restarting with stat
+2020-03-22 12:32:37,116 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:32:37,122 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:32:41,919 - ERROR - error_router - None
+2020-03-22 12:32:41,919 - ERROR - error_router - None
+2020-03-22 12:32:41,922 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:32:41] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:35:18,124 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 12:35:18,126 - INFO - _log -  * Restarting with stat
+2020-03-22 12:35:19,075 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:35:19,093 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:35:21,851 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:35:21] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 12:36:26,605 - ERROR - error_router - None
+2020-03-22 12:36:26,605 - ERROR - error_router - None
+2020-03-22 12:36:26,607 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:36:26] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 12:38:09,390 - ERROR - error_router - None
+2020-03-22 12:38:09,390 - ERROR - error_router - None
+2020-03-22 12:38:09,392 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:38:09] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 12:38:18,581 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 12:38:18,583 - INFO - _log -  * Restarting with stat
+2020-03-22 12:38:19,390 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:38:19,394 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:38:27,051 - ERROR - error_router - None
+2020-03-22 12:38:27,051 - ERROR - error_router - None
+2020-03-22 12:38:27,054 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:38:27] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 12:38:50,699 - ERROR - error_router - None
+2020-03-22 12:38:50,699 - ERROR - error_router - None
+2020-03-22 12:38:50,712 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:38:50] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 12:46:14,748 - ERROR - error_router - None
+2020-03-22 12:46:14,748 - ERROR - error_router - None
+2020-03-22 12:46:14,752 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:46:14] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 12:46:36,936 - ERROR - error_router - None
+2020-03-22 12:46:36,936 - ERROR - error_router - None
+2020-03-22 12:46:36,938 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:46:36] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 12:46:40,686 - ERROR - error_router - None
+2020-03-22 12:46:40,686 - ERROR - error_router - None
+2020-03-22 12:46:40,687 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:46:40] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 12:46:56,033 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 12:46:56,034 - INFO - _log -  * Restarting with stat
+2020-03-22 12:46:56,968 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:46:56,972 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:46:59,545 - ERROR - error_router - None
+2020-03-22 12:46:59,545 - ERROR - error_router - None
+2020-03-22 12:46:59,547 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:46:59] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 12:48:12,698 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 12:48:12,699 - INFO - _log -  * Restarting with stat
+2020-03-22 12:48:13,577 - WARNING - _log -  * Debugger is active!
+2020-03-22 12:48:13,579 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 12:48:16,155 - ERROR - error_router - None
+2020-03-22 12:48:16,155 - ERROR - error_router - None
+2020-03-22 12:48:16,162 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 12:48:16] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:05:26,154 - ERROR - error_router - None
+2020-03-22 13:05:26,154 - ERROR - error_router - None
+2020-03-22 13:05:26,155 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:05:26] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:09:31,446 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:09:31,886 - INFO - _log -  * Restarting with stat
+2020-03-22 13:09:32,672 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:09:32,673 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:09:36,596 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:09:36] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:10:13,219 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:10:13,394 - INFO - _log -  * Restarting with stat
+2020-03-22 13:10:14,158 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:10:14,159 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:10:18,232 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:10:18,328 - INFO - _log -  * Restarting with stat
+2020-03-22 13:10:19,450 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:10:19,452 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:11:17,422 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:11:17,424 - INFO - _log -  * Restarting with stat
+2020-03-22 13:11:18,327 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:11:18,328 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:11:21,404 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:11:21] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:12:36,574 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:12:36,773 - INFO - _log -  * Restarting with stat
+2020-03-22 13:12:37,612 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:12:37,613 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:12:48,596 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:12:48] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:17:11,496 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:17:11,629 - INFO - _log -  * Restarting with stat
+2020-03-22 13:17:12,501 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:17:12,502 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:26:17,974 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:26:18,139 - INFO - _log -  * Restarting with stat
+2020-03-22 13:26:18,966 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:26:18,967 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:27:02,631 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:27:02,729 - INFO - _log -  * Restarting with stat
+2020-03-22 13:27:03,470 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:27:03,471 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:28:07,483 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/models/mixin.py', reloading
+2020-03-22 13:28:07,649 - INFO - _log -  * Restarting with stat
+2020-03-22 13:28:08,410 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:28:08,411 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:28:31,792 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:28:31,918 - INFO - _log -  * Restarting with stat
+2020-03-22 13:28:32,726 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:28:32,727 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:28:43,930 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:28:44,224 - INFO - _log -  * Restarting with stat
+2020-03-22 13:28:44,995 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:28:44,996 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:28:55,182 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:28:55,300 - INFO - _log -  * Restarting with stat
+2020-03-22 13:30:08,252 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:30:08,253 - INFO - _log -  * Restarting with stat
+2020-03-22 13:30:09,250 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:30:09,252 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:30:19,966 - ERROR - error_router - None
+2020-03-22 13:30:19,966 - ERROR - error_router - None
+2020-03-22 13:30:19,969 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:30:19] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:31:11,219 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:31:11,316 - INFO - _log -  * Restarting with stat
+2020-03-22 13:31:12,166 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:31:12,170 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:31:18,790 - ERROR - error_router - None
+2020-03-22 13:31:18,790 - ERROR - error_router - None
+2020-03-22 13:31:18,793 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:31:18] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:31:27,466 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:31:27,653 - INFO - _log -  * Restarting with stat
+2020-03-22 13:31:28,693 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:31:28,694 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:31:33,173 - ERROR - error_router - None
+2020-03-22 13:31:33,173 - ERROR - error_router - None
+2020-03-22 13:31:33,176 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:31:33] "[35m[1mPOST /users/add_user/ HTTP/1.1[0m" 500 -
+2020-03-22 13:31:59,141 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:31:59,269 - INFO - _log -  * Restarting with stat
+2020-03-22 13:32:00,008 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:32:00,009 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:32:06,153 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:32:06,272 - INFO - _log -  * Restarting with stat
+2020-03-22 13:32:07,374 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:32:07,376 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:32:13,281 - ERROR - error_router - None
+2020-03-22 13:32:13,281 - ERROR - error_router - None
+2020-03-22 13:32:13,285 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:32:13] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:32:23,104 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:32:23,105 - INFO - _log -  * Restarting with stat
+2020-03-22 13:32:24,356 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:32:24,357 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:32:26,840 - ERROR - error_router - None
+2020-03-22 13:32:26,840 - ERROR - error_router - None
+2020-03-22 13:32:26,842 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:32:26] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:34:00,885 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:34:01,057 - INFO - _log -  * Restarting with stat
+2020-03-22 13:34:01,839 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:34:01,840 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:34:03,879 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:34:04,174 - INFO - _log -  * Restarting with stat
+2020-03-22 13:34:04,907 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:34:04,908 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:34:06,936 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:34:07,025 - INFO - _log -  * Restarting with stat
+2020-03-22 13:34:08,089 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:34:08,090 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:34:22,386 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:34:22,389 - INFO - _log -  * Restarting with stat
+2020-03-22 13:34:23,116 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:34:23,117 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:34:28,317 - ERROR - error_router - None
+2020-03-22 13:34:28,317 - ERROR - error_router - None
+2020-03-22 13:34:28,319 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:34:28] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:34:49,493 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:34:49,818 - INFO - _log -  * Restarting with stat
+2020-03-22 13:34:51,198 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:34:51,203 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:34:54,444 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:34:54,452 - INFO - _log -  * Restarting with stat
+2020-03-22 13:34:55,459 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:34:55,460 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:35:01,740 - ERROR - error_router - None
+2020-03-22 13:35:01,740 - ERROR - error_router - None
+2020-03-22 13:35:01,742 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:35:01] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:35:46,152 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:35:46,340 - INFO - _log -  * Restarting with stat
+2020-03-22 13:35:48,920 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:35:48,923 - INFO - _log -  * Restarting with stat
+2020-03-22 13:35:49,902 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:35:49,909 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:35:53,293 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:35:53] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:36:03,594 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:36:03] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:36:57,104 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:36:57,107 - INFO - _log -  * Restarting with stat
+2020-03-22 13:36:58,033 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:36:58,036 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:37:00,669 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:37:00] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:37:12,678 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:37:12] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:38:51,539 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:38:51,704 - INFO - _log -  * Restarting with stat
+2020-03-22 13:38:52,441 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:38:52,442 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:38:56,488 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:38:56] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:40:34,974 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:40:35,064 - INFO - _log -  * Restarting with stat
+2020-03-22 13:40:36,012 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:40:36,012 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:40:40,287 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:40:40,293 - INFO - _log -  * Restarting with stat
+2020-03-22 13:40:41,279 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:40:41,280 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:40:44,437 - ERROR - error_router - None
+2020-03-22 13:40:44,437 - ERROR - error_router - None
+2020-03-22 13:40:44,444 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:40:44] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:41:25,202 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:41:25,204 - INFO - _log -  * Restarting with stat
+2020-03-22 13:41:26,174 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:41:26,175 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:41:29,596 - ERROR - error_router - None
+2020-03-22 13:41:29,596 - ERROR - error_router - None
+2020-03-22 13:41:29,598 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:41:29] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 13:42:09,355 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:42:09,356 - INFO - _log -  * Restarting with stat
+2020-03-22 13:42:10,275 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:42:10,275 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:42:13,750 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:42:13] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:43:01,940 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:43:02,068 - INFO - _log -  * Restarting with stat
+2020-03-22 13:43:02,926 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:43:02,927 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:43:11,016 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 13:43:11,200 - INFO - _log -  * Restarting with stat
+2020-03-22 13:43:12,418 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:43:12,420 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:43:15,188 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 13:43:15,189 - INFO - _log -  * Restarting with stat
+2020-03-22 13:43:16,135 - WARNING - _log -  * Debugger is active!
+2020-03-22 13:43:16,136 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 13:43:19,587 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:43:19] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:44:09,612 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:44:09] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 13:53:43,128 - ERROR - error_router - None
+2020-03-22 13:53:43,128 - ERROR - error_router - None
+2020-03-22 13:53:43,133 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 13:53:43] "[31m[1mPOST /users/add_user/ HTTP/1.1[0m" 400 -
+2020-03-22 14:17:41,442 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/models/mixin.py', reloading
+2020-03-22 14:17:41,535 - INFO - _log -  * Restarting with stat
+2020-03-22 14:17:42,420 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:17:42,422 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:18:01,204 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:18:01] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 14:19:37,185 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:19:37,298 - INFO - _log -  * Restarting with stat
+2020-03-22 14:19:38,052 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:19:38,053 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:22:03,969 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:22:03] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 14:22:23,960 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:22:23] "[37mPOST /users/add_user/ HTTP/1.1[0m" 200 -
+2020-03-22 14:22:52,820 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:22:52] "[37mPOST /users/ HTTP/1.1[0m" 200 -
+2020-03-22 14:25:09,609 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:25:09,745 - INFO - _log -  * Restarting with stat
+2020-03-22 14:25:10,735 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:25:10,735 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:25:20,863 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:25:20,865 - INFO - _log -  * Restarting with stat
+2020-03-22 14:25:21,609 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:25:21,610 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:25:29,824 - ERROR - error_router - None
+2020-03-22 14:25:29,824 - ERROR - error_router - None
+2020-03-22 14:25:29,825 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:25:29] "[35m[1mGET /users/ HTTP/1.1[0m" 500 -
+2020-03-22 14:25:51,072 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:25:51,239 - INFO - _log -  * Restarting with stat
+2020-03-22 14:25:52,197 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:25:52,198 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:25:55,388 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:25:55,392 - INFO - _log -  * Restarting with stat
+2020-03-22 14:25:56,423 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:25:56,424 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:25:59,048 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:25:59] "[37mGET /users/ HTTP/1.1[0m" 200 -
+2020-03-22 14:27:16,540 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:27:16,776 - INFO - _log -  * Restarting with stat
+2020-03-22 14:27:18,054 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:27:18,055 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:27:20,784 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:27:20] "[37mGET /users/ HTTP/1.1[0m" 200 -
+2020-03-22 14:27:48,190 - ERROR - error_router - None
+2020-03-22 14:27:48,190 - ERROR - error_router - None
+2020-03-22 14:27:48,192 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:27:48] "[32mGET /users/user/255 HTTP/1.1[0m" 308 -
+2020-03-22 14:27:48,220 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:27:48] "[37mGET /users/user/255/ HTTP/1.1[0m" 200 -
+2020-03-22 14:28:12,896 - ERROR - error_router - None
+2020-03-22 14:28:12,896 - ERROR - error_router - None
+2020-03-22 14:28:12,897 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:28:12] "[32mGET /users/user/256 HTTP/1.1[0m" 308 -
+2020-03-22 14:28:12,920 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:28:12] "[37mGET /users/user/256/ HTTP/1.1[0m" 200 -
+2020-03-22 14:28:18,446 - ERROR - error_router - None
+2020-03-22 14:28:18,446 - ERROR - error_router - None
+2020-03-22 14:28:18,448 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:28:18] "[32mGET /users/user/257 HTTP/1.1[0m" 308 -
+2020-03-22 14:28:18,501 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:28:18] "[37mGET /users/user/257/ HTTP/1.1[0m" 200 -
+2020-03-22 14:28:25,438 - ERROR - error_router - None
+2020-03-22 14:28:25,438 - ERROR - error_router - None
+2020-03-22 14:28:25,440 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:28:25] "[32mGET /users/user/258 HTTP/1.1[0m" 308 -
+2020-03-22 14:28:25,469 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:28:25] "[37mGET /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:32:40,395 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:32:40,583 - INFO - _log -  * Restarting with stat
+2020-03-22 14:32:42,126 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:32:42,127 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:35:20,577 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:35:20,915 - INFO - _log -  * Restarting with stat
+2020-03-22 14:35:22,338 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:35:22,339 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:35:34,072 - ERROR - error_router - None
+2020-03-22 14:35:34,072 - ERROR - error_router - None
+2020-03-22 14:35:34,081 - ERROR - error_router - None
+2020-03-22 14:35:34,081 - ERROR - error_router - None
+2020-03-22 14:35:34,163 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:35:34] "[35m[1mDELETE /users/user/258 HTTP/1.1[0m" 500 -
+2020-03-22 14:36:45,796 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:36:45,797 - INFO - _log -  * Restarting with stat
+2020-03-22 14:36:46,708 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:36:46,709 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:37:22,218 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/routes.py', reloading
+2020-03-22 14:37:22,306 - INFO - _log -  * Restarting with stat
+2020-03-22 14:37:23,184 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:37:23,186 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:37:31,715 - ERROR - error_router - None
+2020-03-22 14:37:31,715 - ERROR - error_router - None
+2020-03-22 14:37:31,716 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:37:31] "[35m[1mDELETE /users/user/258 HTTP/1.1[0m" 500 -
+2020-03-22 14:37:54,018 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:37:54,020 - INFO - _log -  * Restarting with stat
+2020-03-22 14:37:54,791 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:37:54,792 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:38:00,269 - ERROR - error_router - None
+2020-03-22 14:38:00,269 - ERROR - error_router - None
+2020-03-22 14:38:00,271 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:38:00] "[35m[1mDELETE /users/user/258 HTTP/1.1[0m" 500 -
+2020-03-22 14:39:03,812 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:39:03,908 - INFO - _log -  * Restarting with stat
+2020-03-22 14:39:04,923 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:39:04,924 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:39:09,835 - ERROR - error_router - None
+2020-03-22 14:39:09,835 - ERROR - error_router - None
+2020-03-22 14:39:09,836 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:39:09] "[35m[1mDELETE /users/user/258 HTTP/1.1[0m" 500 -
+2020-03-22 14:41:28,799 - ERROR - error_router - None
+2020-03-22 14:41:28,799 - ERROR - error_router - None
+2020-03-22 14:41:28,801 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:41:28] "[32mGET /users/user/258 HTTP/1.1[0m" 308 -
+2020-03-22 14:41:28,993 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:41:28] "[37mGET /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:41:38,750 - ERROR - error_router - None
+2020-03-22 14:41:38,750 - ERROR - error_router - None
+2020-03-22 14:41:38,751 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:41:38] "[35m[1mDELETE /users/user/258 HTTP/1.1[0m" 500 -
+2020-03-22 14:43:13,450 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:43:13,456 - INFO - _log -  * Restarting with stat
+2020-03-22 14:43:14,810 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:43:14,812 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:43:18,922 - ERROR - error_router - None
+2020-03-22 14:43:18,922 - ERROR - error_router - None
+2020-03-22 14:43:18,926 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:43:18] "[35m[1mDELETE /users/user/258 HTTP/1.1[0m" 500 -
+2020-03-22 14:45:35,549 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:45:35,718 - INFO - _log -  * Restarting with stat
+2020-03-22 14:45:36,721 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:45:36,730 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:45:40,376 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:45:40,377 - INFO - _log -  * Restarting with stat
+2020-03-22 14:45:41,838 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:45:41,841 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:45:44,547 - ERROR - error_router - None
+2020-03-22 14:45:44,547 - ERROR - error_router - None
+2020-03-22 14:45:44,548 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:45:44] "[35m[1mDELETE /users/user/258 HTTP/1.1[0m" 500 -
+2020-03-22 14:46:07,954 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:46:07] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:47:08,193 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:47:08,415 - INFO - _log -  * Restarting with stat
+2020-03-22 14:47:09,241 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:47:09,243 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:48:06,125 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:48:06,241 - INFO - _log -  * Restarting with stat
+2020-03-22 14:48:07,276 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:48:07,279 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:48:10,724 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:48:10,725 - INFO - _log -  * Restarting with stat
+2020-03-22 14:48:11,911 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:48:11,912 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:48:17,294 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:48:17] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:48:42,356 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:48:42,579 - INFO - _log -  * Restarting with stat
+2020-03-22 14:48:43,667 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:48:43,668 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:48:46,981 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:48:46] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:51:20,100 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:51:20,207 - INFO - _log -  * Restarting with stat
+2020-03-22 14:51:21,089 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:51:21,093 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:51:25,364 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:51:25] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:51:46,525 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:51:46,808 - INFO - _log -  * Restarting with stat
+2020-03-22 14:51:47,712 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:51:47,713 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:51:57,245 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:51:57,246 - INFO - _log -  * Restarting with stat
+2020-03-22 14:51:58,232 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:51:58,232 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:52:02,094 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:52:02] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:52:19,565 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:52:19,788 - INFO - _log -  * Restarting with stat
+2020-03-22 14:52:21,592 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:52:21,593 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:52:24,845 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:52:24] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:53:42,667 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:53:42,860 - INFO - _log -  * Restarting with stat
+2020-03-22 14:53:43,720 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:53:43,723 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:54:09,271 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:54:09] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:54:37,582 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:54:37,935 - INFO - _log -  * Restarting with stat
+2020-03-22 14:54:39,054 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:54:39,055 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:54:42,384 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 14:54:42,385 - INFO - _log -  * Restarting with stat
+2020-03-22 14:54:43,363 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:54:43,363 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:54:53,520 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 14:54:53] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 14:55:27,058 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:55:27,259 - INFO - _log -  * Restarting with stat
+2020-03-22 14:55:28,463 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:55:28,464 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:56:07,157 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:56:07,243 - INFO - _log -  * Restarting with stat
+2020-03-22 14:56:07,984 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:56:07,985 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 14:56:19,162 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 14:56:19,283 - INFO - _log -  * Restarting with stat
+2020-03-22 14:56:20,341 - WARNING - _log -  * Debugger is active!
+2020-03-22 14:56:20,342 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:01:59,793 - ERROR - error_router - None
+2020-03-22 15:01:59,793 - ERROR - error_router - None
+2020-03-22 15:01:59,813 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:01:59] "[35m[1mDELETE /users/user/258/ HTTP/1.1[0m" 500 -
+2020-03-22 15:03:02,269 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/models/mixin.py', reloading
+2020-03-22 15:03:02,579 - INFO - _log -  * Restarting with stat
+2020-03-22 15:03:03,861 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:03:03,863 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:08:26,192 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 15:08:26,326 - INFO - _log -  * Restarting with stat
+2020-03-22 15:08:27,197 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:08:27,199 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:08:46,720 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 15:08:46,932 - INFO - _log -  * Restarting with stat
+2020-03-22 15:08:47,891 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:08:47,892 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:10:12,604 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 15:10:12,798 - INFO - _log -  * Restarting with stat
+2020-03-22 15:10:13,679 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:10:13,680 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:12:27,430 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 15:12:27,643 - INFO - _log -  * Restarting with stat
+2020-03-22 15:12:28,472 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:12:28,473 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:12:44,323 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 15:12:44,324 - INFO - _log -  * Restarting with stat
+2020-03-22 15:12:45,221 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:12:45,222 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:13:07,140 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:13:07] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 15:19:21,830 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/models/mixin.py', reloading
+2020-03-22 15:19:21,955 - INFO - _log -  * Restarting with stat
+2020-03-22 15:19:23,189 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:19:23,190 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:19:31,024 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 15:19:31,026 - INFO - _log -  * Restarting with stat
+2020-03-22 15:19:32,339 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:19:32,340 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:19:35,892 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:19:35] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 15:20:07,097 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 15:20:07,343 - INFO - _log -  * Restarting with stat
+2020-03-22 15:20:08,239 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:20:08,240 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:20:13,962 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:20:13] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 15:20:48,228 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 15:20:48,365 - INFO - _log -  * Restarting with stat
+2020-03-22 15:20:49,732 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:20:49,733 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:20:55,376 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:20:55] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 15:21:05,169 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/services/Users.py', reloading
+2020-03-22 15:21:05,455 - INFO - _log -  * Restarting with stat
+2020-03-22 15:21:08,019 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:21:08,023 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:21:24,416 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/models/mixin.py', reloading
+2020-03-22 15:21:24,610 - INFO - _log -  * Restarting with stat
+2020-03-22 15:21:26,180 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:21:26,181 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:21:31,477 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:21:31] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 15:25:45,753 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/models/mixin.py', reloading
+2020-03-22 15:25:45,920 - INFO - _log -  * Restarting with stat
+2020-03-22 15:25:46,912 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:25:46,913 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:29:26,523 - INFO - _log -  * Detected change in '/home/sachin/react/coading/ad_base/api/models/mixin.py', reloading
+2020-03-22 15:29:26,740 - INFO - _log -  * Restarting with stat
+2020-03-22 15:29:28,975 - WARNING - _log -  * Debugger is active!
+2020-03-22 15:29:28,978 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 15:31:52,798 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:31:52] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 15:32:06,461 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:32:06] "[37mDELETE /users/user/258/ HTTP/1.1[0m" 200 -
+2020-03-22 15:32:27,452 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:32:27] "[37mDELETE /users/user/257/ HTTP/1.1[0m" 200 -
+2020-03-22 15:35:04,571 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 15:35:04] "[37mDELETE /users/user/257/ HTTP/1.1[0m" 200 -
+2020-03-22 18:30:47,955 - INFO - _log -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-03-22 18:30:47,962 - INFO - _log -  * Restarting with stat
+2020-03-22 18:30:48,742 - WARNING - _log -  * Debugger is active!
+2020-03-22 18:30:48,752 - INFO - _log -  * Debugger PIN: 115-137-968
+2020-03-22 18:31:27,729 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:31:27] "[37mGET / HTTP/1.1[0m" 200 -
+2020-03-22 18:31:33,346 - ERROR - error_router - None
+2020-03-22 18:31:33,346 - ERROR - error_router - None
+2020-03-22 18:31:33,347 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:31:33] "[33mGET /usres HTTP/1.1[0m" 404 -
+2020-03-22 18:31:33,470 - ERROR - error_router - None
+2020-03-22 18:31:33,470 - ERROR - error_router - None
+2020-03-22 18:31:33,471 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:31:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2020-03-22 18:31:38,614 - ERROR - error_router - None
+2020-03-22 18:31:38,614 - ERROR - error_router - None
+2020-03-22 18:31:38,616 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:31:38] "[32mGET /users HTTP/1.1[0m" 308 -
+2020-03-22 18:31:38,656 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:31:38] "[37mGET /users/ HTTP/1.1[0m" 200 -
+2020-03-22 18:31:54,188 - ERROR - error_router - None
+2020-03-22 18:31:54,188 - ERROR - error_router - None
+2020-03-22 18:31:54,190 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:31:54] "[32mGET /users/user/240 HTTP/1.1[0m" 308 -
+2020-03-22 18:31:54,197 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:31:54] "[37mGET /users/user/240/ HTTP/1.1[0m" 200 -
+2020-03-22 18:32:18,132 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:32:18] "[37mGET /users/user/253/ HTTP/1.1[0m" 200 -
+2020-03-22 18:32:48,338 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:32:48] "[37mGET /users/user/253/ HTTP/1.1[0m" 200 -
+2020-03-22 18:33:17,144 - INFO - _log - 127.0.0.1 - - [22/Mar/2020 18:33:17] "[37mDELETE /users/user/253/ HTTP/1.1[0m" 200 -
