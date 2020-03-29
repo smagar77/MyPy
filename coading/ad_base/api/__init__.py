@@ -31,5 +31,6 @@ if SWAGGER_DISPLAY ==1 :
     swagger = Swagger(app, template=swagger_template)
 
 from logger_config import *
-from .models import *
+from .models.Users.UserModel import UserModel
+from .models.Users.UserLogins import UserLogins
 from .routes import *
