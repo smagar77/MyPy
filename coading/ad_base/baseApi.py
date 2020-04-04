@@ -5,6 +5,7 @@ from exceptions import ApiException
 from flask_restful import Api
 
 def handle_api_error(error):
+    '''This method handles API error'''
     return jsonify({'error':True, 'message':error.message}), error.status_code
 
 def handle_500_error():
