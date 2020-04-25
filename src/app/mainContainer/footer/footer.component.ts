@@ -17,5 +17,5 @@ export class FooterComponent implements OnInit{
   }
 
   //get current datetime using dependency injection
-  current_datetime:string = _helperservice.get_datetime()
+  current_datetime:string = this._helperservice.get_datetime()
 }

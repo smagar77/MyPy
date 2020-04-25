@@ -19,7 +19,7 @@ export class LoginComponent implements OnInit {
       "username":username.value,
       "password":password.value
     }
-    header('Access-Control-Allow-Origin: *');
+
     this.token = this.http.post('http://127.0.0.1:5000/login/', JSON.stringify(data));
     this.token.subscribe(login_response => this.token = login_response)
     console.log(this.token)
